@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-
-[![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicholasg2001)](https://github.com/anuraghazra/github-readme-stats)
+- My name is Nick Guierrez. I'm a senior majoring in Computer Science at Farmingdale State College
+- 💻 Working as a Full Stack Software Engineer at BeeEnrolled
+- 🌱 I’m currently learning: Full stack web development
+- 📫 How to reach me: https://www.linkedin.com/in/nicholas-gutierrez12/
 <!--
 **nicholasg2001/nicholasg2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
