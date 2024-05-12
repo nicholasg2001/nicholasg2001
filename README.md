@@ -3,7 +3,8 @@
 - My name is Nick. I've just recently graduated from Farmingdale State College with a B.S. in Computer Science
 - 💻 Working as a Full Stack Software Engineer at BeeEnrolled
 - 🌱 I’m currently learning: Full stack web development with a larger focus on backend systems. Also have recently begun my LeetCode grind too.
-- 📫 How to reach me: https://www.linkedin.com/in/nicholas-gutierrez12/
+- 📫 How to reach me: https://www.linkedin.com/in/nicholas-gutierrez12/ and [nickgutierrezdev@gmail.com](mailto:nickgutierrezdev@gmail.com)
+
 
 - ![Leetcode Stats](https://leetcard.jacoblin.cool/nicholasg2001)
 <!--
