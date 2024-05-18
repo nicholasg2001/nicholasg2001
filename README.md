@@ -6,7 +6,7 @@
 - 📫 How to reach me: https://www.linkedin.com/in/nicholas-gutierrez12/ and [nickgutierrezdev@gmail.com](mailto:nickgutierrezdev@gmail.com)
 
 
-- ![Leetcode Stats](https://leetcard.jacoblin.cool/nicholasg2001)
+![Leetcode Stats](https://leetcard.jacoblin.cool/nicholasg2001)
 <!--
 **nicholasg2001/nicholasg2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
