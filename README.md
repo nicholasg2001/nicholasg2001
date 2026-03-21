@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- My name is Nick. I've just recently graduated from Farmingdale State College with a B.S. in Computer Science
-- 💻 Working as a Software Engineer at DMW&H
-- 🌱 I’m currently learning: Full stack web development with a larger focus on backend development and distributed systems. 
-- 📫 How to reach me: https://www.linkedin.com/in/nicholasg2001/ and [nickgutierrezdev@gmail.com](mailto:nickgutierrezdev@gmail.com)
+- Fullstack Software Engineer at DMW&H
+- Currently experimenting with home labs and DevOps related tech. Shoutout r/selfhosted
+- Reach me at: https://www.linkedin.com/in/nicholasg2001/ and [nickgutierrezdev@gmail.com](mailto:nickgutierrezdev@gmail.com)
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/nicholasg2001)
@@ -12,12 +11,4 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
